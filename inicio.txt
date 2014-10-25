@@ -1,0 +1,3 @@
+Archivo de inicio prueba
+
+git init, debe tener minimo archivo readme y .gitignore
